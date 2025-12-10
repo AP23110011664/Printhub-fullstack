@@ -1,0 +1,124 @@
+{
+  "services": [
+    {
+      "id": "1",
+      "name": "Business Cards Printing",
+      "description": "Professional business cards with premium quality paper and finish. Available in standard, matte, or glossy finish. Perfect for making a lasting impression.",
+      "price": 25,
+      "category": "Marketing Materials",
+      "turnaround": "2-3 business days",
+      "popular": true
+    },
+    {
+      "id": "2",
+      "name": "Document Printing (B&W)",
+      "description": "High-quality black and white document printing for reports, proposals, and presentations. Multiple paper sizes available.",
+      "price": 0.15,
+      "category": "Documents",
+      "turnaround": "Same day",
+      "popular": true
+    },
+    {
+      "id": "3",
+      "name": "Document Printing (Color)",
+      "description": "Vibrant color document printing for presentations, charts, and marketing materials. Professional quality guaranteed.",
+      "price": 0.35,
+      "category": "Documents",
+      "turnaround": "Same day",
+      "popular": true
+    },
+    {
+      "id": "4",
+      "name": "Flyer Printing",
+      "description": "Eye-catching flyers for events, promotions, and announcements. Various sizes and paper stocks available.",
+      "price": 50,
+      "category": "Marketing Materials",
+      "turnaround": "3-5 business days",
+      "popular": true
+    },
+    {
+      "id": "5",
+      "name": "Poster Printing",
+      "description": "Large format poster printing for events, advertising, and displays. Available in multiple sizes up to 24x36 inches.",
+      "price": 15,
+      "category": "Large Format",
+      "turnaround": "2-4 business days",
+      "popular": false
+    },
+    {
+      "id": "6",
+      "name": "Banner Printing",
+      "description": "Durable vinyl banners for indoor and outdoor use. Custom sizes available with grommets for easy hanging.",
+      "price": 85,
+      "category": "Large Format",
+      "turnaround": "5-7 business days",
+      "popular": false
+    },
+    {
+      "id": "7",
+      "name": "Brochure Printing",
+      "description": "Professional tri-fold or bi-fold brochures. Perfect for marketing materials, product catalogs, and company information.",
+      "price": 75,
+      "category": "Marketing Materials",
+      "turnaround": "3-5 business days",
+      "popular": true
+    },
+    {
+      "id": "8",
+      "name": "Photo Printing",
+      "description": "High-resolution photo prints on premium photo paper. Various sizes from 4x6 to 11x14 inches.",
+      "price": 2.5,
+      "category": "Photos",
+      "turnaround": "1-2 business days",
+      "popular": false
+    },
+    {
+      "id": "9",
+      "name": "Booklet Binding",
+      "description": "Professional booklet binding services including saddle stitch and spiral binding. Ideal for manuals and catalogs.",
+      "price": 5,
+      "category": "Binding",
+      "turnaround": "3-5 business days",
+      "popular": false
+    },
+    {
+      "id": "10",
+      "name": "Lamination Service",
+      "description": "Protect your documents with professional lamination. Available in various thicknesses for durability.",
+      "price": 3,
+      "category": "Finishing",
+      "turnaround": "Same day",
+      "popular": false
+    }
+  ],
+  "requests": [
+    {
+      "id": "2371",
+      "name": "SURENDRA",
+      "phone": "9032020464",
+      "email": "suribrother99@gmail.com",
+      "serviceId": "8",
+      "quantity": "1",
+      "preferredTime": "2025-12-07T14:27",
+      "notes": "lpl[jo n",
+      "fileName": "COA_Project_Report.pdf",
+      "serviceName": "",
+      "status": "pending",
+      "submittedAt": "2025-12-07T08:57:23.260Z"
+    },
+    {
+      "id": "1a67",
+      "name": "SURENDRA",
+      "phone": "9032020464",
+      "email": "suribrother99@gmail.com",
+      "serviceId": "1",
+      "quantity": "1",
+      "preferredTime": "2025-12-07T21:31",
+      "notes": "jdkfbsfpipoqpdwlf",
+      "fileName": "cn_assignment_3.docx",
+      "serviceName": "",
+      "status": "pending",
+      "submittedAt": "2025-12-07T16:01:58.860Z"
+    }
+  ]
+}
